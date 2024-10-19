@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Mental Calculation Game",
+    "version": "1.0",
+    "description": "A fun mental math game to improve your calculation skills. Choose between basic and advanced modes with adjustable difficulty",
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Mental Math"
+    },
+    "icons": {
+        "16": "16.png",
+        "32": "32.png"
+    },
+    "permissions": [
+        "storage"
+    ]
+  }
